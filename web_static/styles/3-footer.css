@@ -7,7 +7,7 @@ footer{
     display:flex; 
     justify-content:center;
     text-align:center;
-    border-top: 1px #000000;
+    border-top: 1px #CCCCCC;
 
 }
 footer p{
